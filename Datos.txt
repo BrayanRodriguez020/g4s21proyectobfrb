@@ -1,0 +1,1 @@
+{"nombres":{"nombres":"Brayan","ap":"Rodriguez","am":"Barrera"},"fecha":"23/06/2003","correo":"brayan@gmail.com","rfc":"123445dfbgy","sexo":"Masculino","direccion":{"calle":"Jimenez Cantu","colonia":"56510","municipio":"La paz","cp":"Hank Gonzales","entidad":"Mexico"}}
